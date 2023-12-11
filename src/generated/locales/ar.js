@@ -22,5 +22,6 @@
 'sbc8741ff143d32f6': ` After editing /etc/grub.d/40_custom, re-generate grub config with command:`,
 's701c80c5e6ceabf2': `The exact command to use may vary depending on your distro.`,
 's0379fc73608ab971': `Done`,
+'s997e405b72004048': `Creating data.img.. Please wait`,
     };
   
